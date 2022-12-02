@@ -41,6 +41,8 @@ public class LoginPage {
 		/*Customer customer= jdata.getCustomerByName("Lakshay");*/
 		System.out.println(customer.firstName);
 		System.out.println(customer.lastName);
+		
+		//CUSTOM MSG
 		/*
 		 * enter_Phone(customer.phoneNumber.mob); enter_Email(customer.emailAddress);
 		 * enter_City(customer.address.city);
