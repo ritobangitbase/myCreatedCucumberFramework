@@ -17,20 +17,6 @@ public class LoginPage {
 	  public LoginPage(WebDriver driver) {
 		  this.driver = driver;
 	  	  }
-	  
-			/*
-			 * public LoginPage(WebDriver driver, List<Customer> customerList) { this.driver
-			 * = driver; this.customerList= customerList; }
-			 */
-	 
-	
-	/*
-	 * TestContextSetup testContextSetup;
-	 * 
-	 * public LoginPage(TestContextSetup testContextSetup) {
-	 * 
-	 * this.testContextSetup = testContextSetup; }
-	 */
 	
 	
 	
