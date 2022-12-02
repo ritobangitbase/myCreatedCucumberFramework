@@ -24,7 +24,6 @@ public class LoginPage {
 	{
 		//Assert.assertEquals(true, false);
 		
-		/*Customer customer= jdata.getCustomerByName("Lakshay");*/
 		System.out.println(customer.firstName);
 		System.out.println(customer.lastName);
 		
